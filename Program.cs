@@ -1,4 +1,4 @@
-﻿string nome, sobrenome;
+﻿string nome sobrenome;
 Console.Write("Digite seu nome : ");
 nome = Console.ReadLine()!;
 
@@ -10,3 +10,4 @@ Console.WriteLine($"Nome de catálogo: {sobrenome.ToUpper()}, {nome}");
 {
     
 }
+
